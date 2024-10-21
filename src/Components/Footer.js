@@ -17,7 +17,7 @@ function Footer() {
           <span className='text-white'>linkedin.com/ritesh</span>
         </a>
 
-        <a
+        {/* <a
           href='https://github.com/ritesh7092/'
           target='_blank'
           rel='noopener noreferrer'
@@ -27,7 +27,7 @@ function Footer() {
             <GrGithub className='text-white' />
           </div>
           <span className='text-white'>github.com/ritesh</span>
-        </a>
+        </a> */}
 
         <a
           href='mailto:riteshrajtiwari.999@gmail.com'
