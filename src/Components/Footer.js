@@ -17,20 +17,8 @@ function Footer() {
           <span className='text-white'>linkedin.com/ritesh</span>
         </a>
 
-        {/* <a
-          href='https://github.com/ritesh7092/'
-          target='_blank'
-          rel='noopener noreferrer'
-          className='flex items-center text-sm text-violet-300 hover:text-violet-400 transition duration-300'
-        >
-          <div className='h-8 w-8 rounded-full flex justify-center items-center bg-violet-500 mr-2'>
-            <GrGithub className='text-white' />
-          </div>
-          <span className='text-white'>github.com/ritesh</span>
-        </a> */}
-
         <a
-          href='mailto:riteshrajtiwari.999@gmail.com'
+          href='mailto:riteshrajtiwari.cse@gmail.com'
           className='flex items-center text-sm text-violet-300 hover:text-violet-400 transition duration-300'
         >
           <div className='h-8 w-8 rounded-full flex justify-center items-center bg-violet-500 mr-2'>

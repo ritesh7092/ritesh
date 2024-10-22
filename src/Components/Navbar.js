@@ -35,13 +35,12 @@ function Navbar() {
     <nav className="fixed w-full z-20 top-0 bg-gradient-to-r from-blue-800 to-sky-500 shadow-lg">
       <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
         <div className="flex flex-row">
-          {/* <h2
+          <h2
             className="text-white text-2xl font-bold ml-4 hover:text-yellow-300 transition duration-300 cursor-pointer"
             onClick={() => (window.location.href = "/")}
           >
             <b>Ritesh</b>
-          </h2> */}
-          
+          </h2>
         </div>
         <div className="flex md:order-2 bg-blue-600 rounded-lg md:hidden focus:ring-2">
           <button
